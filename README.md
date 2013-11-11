@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Jruby::Javacompiler
-
-TODO: Write a gem description
-
 jruby-javacompiler
 ==================
 
